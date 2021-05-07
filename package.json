@@ -1,0 +1,11 @@
+{
+  "name": "pricingcomponent",
+  "version": "1.0.0",
+  "description": "Pricing Component Proyect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Bult <acevedo.bult@gmail.com>",
+  "license": "MIT"
+}
